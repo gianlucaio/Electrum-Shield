@@ -67,7 +67,7 @@ sudo apt install python3-tk gnupg
 ### 2. Clona il repository
 
 ```bash
-git clone https://github.com/tuousername/electrumshield.git
+git clone https://github.com/gianlucaio/electrumshield.git
 cd electrumshield
 ```
 
